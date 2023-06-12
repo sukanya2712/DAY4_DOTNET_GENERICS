@@ -1,0 +1,15 @@
+C:\Users\Sukanay\source\repos\genericproblems\genericproblems\bin\Debug\net6.0\genericproblems.exe
+C:\Users\Sukanay\source\repos\genericproblems\genericproblems\bin\Debug\net6.0\genericproblems.deps.json
+C:\Users\Sukanay\source\repos\genericproblems\genericproblems\bin\Debug\net6.0\genericproblems.runtimeconfig.json
+C:\Users\Sukanay\source\repos\genericproblems\genericproblems\bin\Debug\net6.0\genericproblems.dll
+C:\Users\Sukanay\source\repos\genericproblems\genericproblems\bin\Debug\net6.0\genericproblems.pdb
+C:\Users\Sukanay\source\repos\genericproblems\genericproblems\obj\Debug\net6.0\genericproblems.csproj.AssemblyReference.cache
+C:\Users\Sukanay\source\repos\genericproblems\genericproblems\obj\Debug\net6.0\genericproblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sukanay\source\repos\genericproblems\genericproblems\obj\Debug\net6.0\genericproblems.AssemblyInfoInputs.cache
+C:\Users\Sukanay\source\repos\genericproblems\genericproblems\obj\Debug\net6.0\genericproblems.AssemblyInfo.cs
+C:\Users\Sukanay\source\repos\genericproblems\genericproblems\obj\Debug\net6.0\genericproblems.csproj.CoreCompileInputs.cache
+C:\Users\Sukanay\source\repos\genericproblems\genericproblems\obj\Debug\net6.0\genericproblems.dll
+C:\Users\Sukanay\source\repos\genericproblems\genericproblems\obj\Debug\net6.0\refint\genericproblems.dll
+C:\Users\Sukanay\source\repos\genericproblems\genericproblems\obj\Debug\net6.0\genericproblems.pdb
+C:\Users\Sukanay\source\repos\genericproblems\genericproblems\obj\Debug\net6.0\genericproblems.genruntimeconfig.cache
+C:\Users\Sukanay\source\repos\genericproblems\genericproblems\obj\Debug\net6.0\ref\genericproblems.dll
