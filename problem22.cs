@@ -10,7 +10,7 @@ namespace genericproblems
     internal class problem22
     {
 
-        public static void generics<T>(T[] aarr, T bele)
+        public void generics<T>(T[] aarr, T bele)
         {
             T[] temparray = new T[aarr.Length - 1];
             int flag = 0;

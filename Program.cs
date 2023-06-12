@@ -73,6 +73,15 @@
             obj2.generics(number,3);
             obj2.generics(word, "abc");
             obj2.generics(chars, 'b');
+
+            //problem6
+            problem66.FindMinString("apple","bababa","mango");
+
+            //problem5
+            problem55.FindMinFloat(10.1f,20.3f,30.1f);
+
+            //problem4
+            problem44.FindMinNumberr(10,30,40);
         }
     }
 }
