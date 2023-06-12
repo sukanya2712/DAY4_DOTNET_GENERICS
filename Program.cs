@@ -63,9 +63,16 @@
             int[] number = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
             string[] word = { "abc", "def", "ghi" };
             char[] chars = { 'a', 'b', 'c' };
-            Inte(number);
-            Doub(word);
-            Chara(chars);
+            //Inte(number);
+            //Doub(word);
+            //Chara(chars);
+
+
+            //poblem 2 
+            problem22 obj2 = new problem22();
+            obj2.generics(number,3);
+            obj2.generics(word, "abc");
+            obj2.generics(chars, 'b');
         }
     }
 }
