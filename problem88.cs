@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace genericproblems
 {
-    public class Problem8<T> where T : IComparable<T>
+    public class Problem88<T> where T : IComparable<T>
     {
         public T num1, num2, num3;
 
-        public Problem8(T num1, T num2, T num3)
+        public Problem88(T num1, T num2, T num3)
         {
             this.num1 = num1;
             this.num2 = num2;

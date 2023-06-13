@@ -67,6 +67,10 @@
             //Doub(word);
             //Chara(chars);
 
+            //problem3
+            Problem3<string> problem3 = new Problem3<string>(word,"abc");
+            problem3.testMinimum();
+            Console.ReadLine();
 
             //poblem 2 
             //problem22 obj2 = new problem22();
@@ -87,14 +91,14 @@
             //problem77.P7("apple","banana","dog");
             //problem77.P7(2, 4, 5);
 
-            Problem8<int> problem8 = new Problem8<int>(8, 2, 6);
-            problem8.testMinimum();
+            //Problem88<int> problem8 = new Problem8<int>(8, 2, 6);
+            //problem8.testMinimum();
 
-            Problem8<double> problem8_1 = new Problem8<double>(1.6, 1.2, 1.3);
-            problem8_1.testMinimum();
+            // Problem88<double> problem8_1 = new Problem8<double>(1.6, 1.2, 1.3);
+            //problem8_1.testMinimum();
 
-            Problem8<string> problem8_2 = new Problem8<string>("abc", "efg", "xyz");
-            problem8_2.testMinimum();
+            // Problem88<string> problem8_2 = new Problem8<string>("abc", "efg", "xyz");
+            // problem8_2.testMinimum();
         }
     }
 }
